@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "cg-business-intelligence",
+    "private_key_id": "ff77ab513f31544d05b0f5c926dd0e2f53110516",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0Efe/WsY4jAvU\neMfFhD7ReH37lW6MA0f4HPVntk2OkIuqJmJrh+DcTQcEUyfJWg0mjE9lxrxA8DrA\nWdHOyN/h9p25e+Ss5H7krHfOeMf6K0T3nNkxYCEi4y9JDaywaRuvdPZAmC5aAIUI\nL2sSFH8y0r9RZjMyHQ1tgvNi9i7d6Urboi0I/5K0DYaolh9zZEC+WYu+cRtVERLE\nOmD3+msPPT2BI5XHCZDJsO/BlBTDMnBff0PXbN7BzNoTYonjiwm+0uMFnZqHGUas\nwoLDaehy4+Kfl9DfJqR67uZfOMhVeOL7jdqeQ/t2GEC42LmcZcrDSM444bYiONHh\nP/BcY3zdAgMBAAECggEAQPH+DgkaVwjDt4U8YBO7aGdx4Mxbi6ofSfB/3kEVJeci\nSGMBulDOnAY4Eqo/PlL5TT7r4ARWn4FFX1zF3DP88420A1MY/faHgchmiZRsY+E5\nRalPeIx4RxHzWwDQmOu/7X9c1Z1Nkm5/jJ01m9bCrbzu/dfDfT6XOjkxuS6bZrOC\n9OTg1Iyo8v4uOyFMEpSXsm9e7D3m5Y3yWb4pZ6PElZ9vG9bP6aIJAFbi5BbMYC35\nqOX3xo4U+n1Qa8hMkx4in2J1VuVwKqbvVpQanNWVCtoVZ67UlyYRXvOd6RJQNYzO\nUg86OMhL/SpVK+SFjTI+2LOaziFRDAeHIHnmFji8DQKBgQDuGLsp2SJzuR2pRXyA\nP6+1kC2ftkc3N1rMXRQ3U5Wf3btGFsjFWZESo3xfZt1v7zCyok12/lx3+wEr8DKB\nH7Hll0TPIi4kH3fdIa+wgKQEA5qMa5Yp0C7WNGM9K6qzrHHm+Ze9rqW7H0QxR8//\nJ5Z0ARUXU/DNPdLlz2CrB6r0ewKBgQDBnEANg72RAdsypCnzuW7K2jlLNBgNQZAF\n1cFUTjl9tTpN2bx5q7E805o85+Gac+o9ozSWT4/WgiYdnVCsZfC2DpyM2aWlj0pm\ne8auVjjyIWy/5nq2cuTIJTLaPsMaiu3heXV8u0INz1t1lNJBzs10NQ3pG3XaGBBp\n8QtxNviwhwKBgAC4Jmib9VSwLHzEbvncN2WvB9RBsrlh+24+ob8BC6SuANDXZMfj\n22JZCBkpsGWULWt8vgsr/Y+HPJurYBuvwtPUvyp5Cfal+bC7V1KLMPOqJx9he9So\nglu3UM1wglWEodt2yZSTIIEOOSCE/QXiUrwK/MtTP5j/JNH47GvX3BZdAoGAd+uh\nHP3ZoASnUcGvHoBf6JOsYzFcKHHQlFynB+H/6CYle+z+udonyMZERa9W5MUhdJYv\nT17ud+5bT4KOYootw4ZfXzq8SETtz3ahRICxewBLDL3kije2D2ZDDj1LuZgN6dfC\ndsTCEC28t6K7bPl79puaByX0JGc9W3FrJe/nr+cCgYEArx0M8pGVYuNSbtw6kftr\nYoyCeCmI9F3CnaN+9lylIEk+e0V5dl6aTlZBGN/zR8C1VXADyCIclK8MCkaC2Yuy\n2gf8UeGlwoho70+4mLqJ3BFPt3o3JfDbAhoKiz7VijcVlJ50dAq+zwiMke/WI0nO\nuIoboZlVYrwa0cnpHsfDUl4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "bi-etl-talend@cg-business-intelligence.iam.gserviceaccount.com",
+    "client_id": "114989352146728567567",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bi-etl-talend%40cg-business-intelligence.iam.gserviceaccount.com"
+  }
+  
