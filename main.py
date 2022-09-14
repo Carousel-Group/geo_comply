@@ -51,7 +51,7 @@ def call_merge():
 
     client = bigquery.Client(credentials= cred,project="cg-maximbet-bi")
     query = """
-       CALL stage.geocomply()
+       CALL data.geocomply()
             """
     try:
         job = client.query(query=query)
