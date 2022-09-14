@@ -113,7 +113,7 @@ def call_buckets_merge(bucket_name):
         
         
     except:
-        print("Oops!", sys.exc_info(), "occurred.")
+        print("Oops!", sys.exc_info(1), "occurred.")
         print("as no values",blob.name,)
         
 
