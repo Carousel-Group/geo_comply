@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "cg-maximbet-bi",
-  "private_key_id": "9bf0c36df7ca380cd67ed4e628dbe4751f064aa9",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDKCUKdNCF6SIsa\nPycYfTPtvU2OQdQLYzO/JYefV8/wUN9grOeYiNWSow+8rsRNfUPgiphKPh5cm5A0\nlKXmLtVCd51FzyvD5Q/yJbylSsgGLKP0ho7Jb0AR8AOFB4fOB/u/rlIOoGuguvON\nHMwtdtS2LG8Vn/82x/KybgZT7pD2voHDxjCDnsfLegsse1qG8ZRQ0FH3TZqK50cl\npTp6OXoTShZig44F8PFqqhUQRnuvHyjkd31fbdTXJGiVugZfkzgrLa7nlK3nCVUt\nmuDL2qnrZY79jC2GBq0lfLVQFf179TeAb3vc4Jw4GtK5gjoWDf6UZMKzCaucPTRJ\nxiCMVkd5AgMBAAECggEAHzFv0gK2+oDRzUMb36mRB283VrPuL7XoyuXZ+y2dIr7x\nxiTb+w6BXwsDBoA7ObWR8cykN65AlM7F5IBg3tmzPnhmVV1npe6rWBkgd6rEmENz\nKvFNgWdGTp6uhG8FtjdAVLdu3uhAxceni8167rgOnnPc0MtrpYMYgxj+rB3EzvuT\npfvMgjI7YOjEhD/oI+45B1cSs/ky2qe1MUV5HrqQj8aD5GVoHev1zotRfjT4ox3E\nZCMnUIpOca2jMG19I480d2oD1efKzR+Nrk3PK5/Drqcx6aRpfsrO8gg4Wc2FZFDu\nzYAjGB6iQ2tnt9Gi9ncnoPEjbghy00eI8Vnz9H+sqwKBgQDlEnEsaWybOwFyjmH5\nuyOJOKMBLIQB3RTfoopKWluVkFW9Mgr0WcLtYKaErBE15fyhiB1Gv9D7MYfZ1vmc\nqZYWXjlrGTpZH73oLXHTgAdEPPVjc1wHsemQrwYcIbrbaZDZsCL1U3X0RC64hwM6\nYb7Cl45mJ5PxR6NnGfLLvDoUMwKBgQDhyTeA6IaPnGv16V6AQtIHdld9a6YKlYt3\nafCjiSLdwqvLvPsV8FYmFJYTlb8s3N8XRUpGhQ6c5suhyCil5hnfVX/w38GTdjyK\npLaLPgN1tg5/PKj6Xs07gpcs4g3JFSEAbq39/DKk907opCK1knrs5ZRoOqd1ftsL\nisHNnCPpowKBgQDGYwBszCjpD2MjiThFBdOy5cAWJi11R7jqLWTDHBoxH72BizN9\nh7ePyaKtSC/nk/UFGFLykPE2eyECgnHPQffgC16C6GhmA11/FMx9tWWVrY1/wcq0\nR1rWmR4bgwLHP1fZj/fWq59+GwazfQpIp5qEAKmswx4XWkmj4w8pbyyFjQKBgQCT\nvvz/8Kik7wHCgDxjh9YyJeFoY/naMTN7J6rdCI71OD786iQPnh5xesUd+b6I19tw\nOdo5vTXrvCcCLZ1TufeyKhu3fmQIX7WML+53vVO8Qi7IWeRlOYXo7DKKnz3QGHBo\n/QQEEHT/eAl9uHIyCLFBtZVggwkznJgvvFPHfOYPKwKBgQDaLsmmK7uHNoV2q4p/\nnfrRTgZ3Uj8LrAqRH7GGw0ruCrjiSoTmHWvRMtqpbZCBlJj1lQIXZAn5HRymu2Dv\nTeoGiMdqykWOBZo0+QCvuPKsMXrZ8C1zt6J8g/soh5zT+DuDzbotJ/hMn2U7WP61\nVhwcY80wI75hr0898LVGYGvNcA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "geocomply@cg-maximbet-bi.iam.gserviceaccount.com",
-  "client_id": "100946787835611088382",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/geocomply%40cg-maximbet-bi.iam.gserviceaccount.com"
-}
+#inputkey
